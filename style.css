@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+textarea {
+    border: 2px solid #0984e3;
+    border-radius: 10px;
+    outline: none;
+    font-size: 1.2rem;
+    padding: 10px 2px;
+    box-shadow: 0 0 4px 1px #b2bec3;
+}
+
+button {
+    padding: 9px 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid #aa5ba0;
+    font-size: 1.2rem;
+}
+
+p {
+    color: black;
+}
